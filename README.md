@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/zodiac.png" alt="Captura centrada" width="300">
+</p>
+
 # zodiac-astrology
 Open source astrology software.
 
