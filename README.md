@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/zodiac.png" alt="Captura centrada" width="300">
+  <img src="img/zodiac.png" alt="Captura centrada" width="200">
 </p>
 
 # zodiac-astrology
