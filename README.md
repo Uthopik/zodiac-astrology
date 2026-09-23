@@ -19,7 +19,7 @@ chmod +x ./Zodiac-v0.7.1-x86_64.AppImage
 - **Morinus 8.2** **[Here](https://github.com/Uthopik/morinus-astrology)**
 - **Openastro 1.2** **[Here](https://github.com/Uthopik/openastro-astrology)**
 - **Maitreya v8.2** **[Here](https://github.com/Uthopik/maitreya-astrology)**
-- **Oroboros v20260906** **[Here](https://github.com/Uthopik/oroboros-astrology)**
+- **Oroboros v20260924** **[Here](https://github.com/Uthopik/oroboros-astrology)**
 
 <p align="center">
   <img src="img/zodiac2.png" alt="Captura centrada" width="800">
